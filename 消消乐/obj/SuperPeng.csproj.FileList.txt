@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SuperPeng.Start.resources
+obj\Debug\SuperPeng.Properties.Resources.resources
+obj\Debug\SuperPeng.csproj.GenerateResource.Cache
+bin\Debug\SuperPeng.exe
+bin\Debug\SuperPeng.pdb
+obj\Debug\SuperPeng.exe
+obj\Debug\SuperPeng.pdb
+obj\Debug\SuperPeng.Help.resources

@@ -1,0 +1,76 @@
+E:\C#案例--2009\对对碰\SuperPeng\SuperPeng\obj\Debug\SuperPeng.exe
+E:\C#案例--2009\对对碰\SuperPeng\SuperPeng\obj\Debug\SuperPeng.pdb
+E:\C#案例--2009\对对碰\SuperPeng\SuperPeng\bin\Debug\SuperPeng.exe
+E:\C#案例--2009\对对碰\SuperPeng\SuperPeng\bin\Debug\SuperPeng.pdb
+E:\C#案例--2009\对对碰\SuperPeng\SuperPeng\obj\Debug\ResolveAssemblyReference.cache
+E:\C#案例--2009\对对碰\SuperPeng\SuperPeng\obj\Debug\SuperPeng.Help.resources
+E:\C#案例--2009\对对碰\SuperPeng\SuperPeng\obj\Debug\SuperPeng.Start.resources
+E:\C#案例--2009\对对碰\SuperPeng\SuperPeng\obj\Debug\SuperPeng.Properties.Resources.resources
+E:\C#案例--2009\对对碰\SuperPeng\SuperPeng\obj\Debug\SuperPeng.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\对对碰7-6 修订版 从上向下移动\SuperPeng\SuperPeng\obj\Debug\SuperPeng.exe
+C:\Documents and Settings\Administrator\桌面\对对碰7-6 修订版 从上向下移动\SuperPeng\SuperPeng\obj\Debug\SuperPeng.pdb
+C:\Documents and Settings\Administrator\桌面\对对碰7-6 修订版 从上向下移动\SuperPeng\SuperPeng\bin\Debug\SuperPeng.exe
+C:\Documents and Settings\Administrator\桌面\对对碰7-6 修订版 从上向下移动\SuperPeng\SuperPeng\bin\Debug\SuperPeng.pdb
+C:\Documents and Settings\Administrator\桌面\对对碰7-6 修订版 从上向下移动\SuperPeng\SuperPeng\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\对对碰7-6 修订版 从上向下移动\SuperPeng\SuperPeng\obj\Debug\SuperPeng.Help.resources
+C:\Documents and Settings\Administrator\桌面\对对碰7-6 修订版 从上向下移动\SuperPeng\SuperPeng\obj\Debug\SuperPeng.Start.resources
+C:\Documents and Settings\Administrator\桌面\对对碰7-6 修订版 从上向下移动\SuperPeng\SuperPeng\obj\Debug\SuperPeng.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\对对碰7-6 修订版 从上向下移动\SuperPeng\SuperPeng\obj\Debug\SuperPeng.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\对对碰7-6 修订版 从上向下移动2.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.exe
+C:\Documents and Settings\Administrator\桌面\对对碰7-6 修订版 从上向下移动2.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.pdb
+C:\Documents and Settings\Administrator\桌面\对对碰7-6 修订版 从上向下移动2.0\SuperPeng\SuperPeng\bin\Debug\SuperPeng.exe
+C:\Documents and Settings\Administrator\桌面\对对碰7-6 修订版 从上向下移动2.0\SuperPeng\SuperPeng\bin\Debug\SuperPeng.pdb
+C:\Documents and Settings\Administrator\桌面\对对碰7-6 修订版 从上向下移动2.0\SuperPeng\SuperPeng\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\对对碰7-6 修订版 从上向下移动2.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.Help.resources
+C:\Documents and Settings\Administrator\桌面\对对碰7-6 修订版 从上向下移动2.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.Start.resources
+C:\Documents and Settings\Administrator\桌面\对对碰7-6 修订版 从上向下移动2.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\对对碰7-6 修订版 从上向下移动2.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.csproj.GenerateResource.Cache
+E:\我的书稿\C#经典游戏开发--2009书稿\游戏代码\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动2.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.exe
+E:\我的书稿\C#经典游戏开发--2009书稿\游戏代码\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动2.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.pdb
+E:\我的书稿\C#经典游戏开发--2009书稿\游戏代码\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动2.0\SuperPeng\SuperPeng\bin\Debug\SuperPeng.exe
+E:\我的书稿\C#经典游戏开发--2009书稿\游戏代码\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动2.0\SuperPeng\SuperPeng\bin\Debug\SuperPeng.pdb
+E:\我的书稿\C#经典游戏开发--2009书稿\游戏代码\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动2.0\SuperPeng\SuperPeng\obj\Debug\ResolveAssemblyReference.cache
+E:\我的书稿\C#经典游戏开发--2009书稿\游戏代码\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动2.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.Help.resources
+E:\我的书稿\C#经典游戏开发--2009书稿\游戏代码\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动2.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.Start.resources
+E:\我的书稿\C#经典游戏开发--2009书稿\游戏代码\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动2.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.Properties.Resources.resources
+E:\我的书稿\C#经典游戏开发--2009书稿\游戏代码\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动2.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.csproj.GenerateResource.Cache
+E:\我的书稿\C#经典游戏开发--2009书稿\游戏代码\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动3.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.exe
+E:\我的书稿\C#经典游戏开发--2009书稿\游戏代码\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动3.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.pdb
+E:\我的书稿\C#经典游戏开发--2009书稿\游戏代码\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动3.0\SuperPeng\SuperPeng\bin\Debug\SuperPeng.exe
+E:\我的书稿\C#经典游戏开发--2009书稿\游戏代码\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动3.0\SuperPeng\SuperPeng\bin\Debug\SuperPeng.pdb
+E:\我的书稿\C#经典游戏开发--2009书稿\游戏代码\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动3.0\SuperPeng\SuperPeng\obj\Debug\ResolveAssemblyReference.cache
+E:\我的书稿\C#经典游戏开发--2009书稿\游戏代码\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动3.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.Help.resources
+E:\我的书稿\C#经典游戏开发--2009书稿\游戏代码\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动3.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.Start.resources
+E:\我的书稿\C#经典游戏开发--2009书稿\游戏代码\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动3.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.Properties.Resources.resources
+E:\我的书稿\C#经典游戏开发--2009书稿\游戏代码\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动3.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动3.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.exe
+C:\Documents and Settings\Administrator\桌面\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动3.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.pdb
+C:\Documents and Settings\Administrator\桌面\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动3.0\SuperPeng\SuperPeng\bin\Debug\SuperPeng.exe
+C:\Documents and Settings\Administrator\桌面\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动3.0\SuperPeng\SuperPeng\bin\Debug\SuperPeng.pdb
+C:\Documents and Settings\Administrator\桌面\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动3.0\SuperPeng\SuperPeng\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动3.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.Help.resources
+C:\Documents and Settings\Administrator\桌面\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动3.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.Start.resources
+C:\Documents and Settings\Administrator\桌面\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动3.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\第四篇  其他类游戏\对对碰7-6 修订版 从上向下移动3.0\SuperPeng\SuperPeng\obj\Debug\SuperPeng.csproj.GenerateResource.Cache
+E:\0课设集\2-C#-Winform\AAA---游戏源码----AAA\第4篇  其他类游戏\第21章 对对碰游戏\bin\Debug\SuperPeng.exe
+E:\0课设集\2-C#-Winform\AAA---游戏源码----AAA\第4篇  其他类游戏\第21章 对对碰游戏\bin\Debug\SuperPeng.pdb
+E:\0课设集\2-C#-Winform\AAA---游戏源码----AAA\第4篇  其他类游戏\第21章 对对碰游戏\obj\Debug\SuperPeng.csprojAssemblyReference.cache
+E:\0课设集\2-C#-Winform\AAA---游戏源码----AAA\第4篇  其他类游戏\第21章 对对碰游戏\obj\Debug\SuperPeng.Help.resources
+E:\0课设集\2-C#-Winform\AAA---游戏源码----AAA\第4篇  其他类游戏\第21章 对对碰游戏\obj\Debug\SuperPeng.Start.resources
+E:\0课设集\2-C#-Winform\AAA---游戏源码----AAA\第4篇  其他类游戏\第21章 对对碰游戏\obj\Debug\SuperPeng.Properties.Resources.resources
+E:\0课设集\2-C#-Winform\AAA---游戏源码----AAA\第4篇  其他类游戏\第21章 对对碰游戏\obj\Debug\SuperPeng.csproj.GenerateResource.cache
+E:\0课设集\2-C#-Winform\AAA---游戏源码----AAA\第4篇  其他类游戏\第21章 对对碰游戏\obj\Debug\SuperPeng.csproj.CopyComplete
+E:\0课设集\2-C#-Winform\AAA---游戏源码----AAA\第4篇  其他类游戏\第21章 对对碰游戏\obj\Debug\SuperPeng.exe
+E:\0课设集\2-C#-Winform\AAA---游戏源码----AAA\第4篇  其他类游戏\第21章 对对碰游戏\obj\Debug\SuperPeng.pdb
+D:\课设集\C#\C#项目\消消乐对对碰\第21章 对对碰游戏\obj\Debug\SuperPeng.exe
+D:\课设集\C#\C#项目\消消乐对对碰\第21章 对对碰游戏\obj\Debug\SuperPeng.pdb
+D:\课设集\C#\C#项目\消消乐对对碰\消消乐\obj\Debug\SuperPeng.csproj.AssemblyReference.cache
+D:\课设集\C#\C#项目\消消乐对对碰\消消乐\obj\Debug\SuperPeng.Help.resources
+D:\课设集\C#\C#项目\消消乐对对碰\消消乐\obj\Debug\SuperPeng.Start.resources
+D:\课设集\C#\C#项目\消消乐对对碰\消消乐\obj\Debug\SuperPeng.Properties.Resources.resources
+D:\课设集\C#\C#项目\消消乐对对碰\消消乐\obj\Debug\SuperPeng.csproj.GenerateResource.cache
+D:\课设集\C#\C#项目\消消乐对对碰\消消乐\obj\Debug\SuperPeng.csproj.CoreCompileInputs.cache
+D:\课设集\C#\C#项目\消消乐对对碰\消消乐\obj\Debug\SuperPeng.exe
+D:\课设集\C#\C#项目\消消乐对对碰\消消乐\obj\Debug\SuperPeng.pdb
+E:\消消乐\obj\Debug\SuperPeng.exe
+E:\消消乐\obj\Debug\SuperPeng.pdb
